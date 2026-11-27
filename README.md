@@ -34,7 +34,7 @@ public class student {
             System.out.print("Enter English Marks: ");
             int englishmarks = sc.nextInt();
 
-            System.out.print("Enter Computer Marks: ");
+            System.out.print("Enter computer Marks: ");
             int physicsmarks = sc.nextInt();
 
             System.out.print("Enter Chemistry Marks: ");
@@ -46,7 +46,7 @@ public class student {
             sc.nextLine();
 
            
-            totals[i] = mathsmarks + englishmarks + computermarks
+            totals[i] = mathsmarks + englishmarks + physicsmarks
                     + chemistrymarks + physicaleducationmarks;
 
            

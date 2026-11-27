@@ -34,7 +34,7 @@ public class student {
             System.out.print("Enter English Marks: ");
             int englishmarks = sc.nextInt();
 
-            System.out.print("Enter Compputer Marks: ");
+            System.out.print("Enter Computer Marks: ");
             int physicsmarks = sc.nextInt();
 
             System.out.print("Enter Chemistry Marks: ");
